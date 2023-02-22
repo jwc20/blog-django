@@ -2,3 +2,5 @@ Django
 djangorestframework
 dj-rest-auth
 django-allauth
+pyyaml 
+uritemplate
