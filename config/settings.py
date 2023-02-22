@@ -49,6 +49,7 @@ INSTALLED_APPS = [
     "drf_yasg",
     # Local
     "posts.apps.PostsConfig",
+    "django_extensions",
 ]
 
 
